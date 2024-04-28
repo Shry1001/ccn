@@ -1,0 +1,4 @@
+Ping command is used to test the network connectivity between end points, that is between source and destination 
+tracert command can be used to test the network connectivity between end points, that is between source and destination.
+The difference between Ping and Traceroute/tracert is that, Traceroute/tracert can trace the path followed by and IPv4 datagram from source to destination
+Pathping command can be used to test the network connectivity between end points, that is between source and destination. But pathping command can also find the packet loss and network latency between source and destination and also between network links.
