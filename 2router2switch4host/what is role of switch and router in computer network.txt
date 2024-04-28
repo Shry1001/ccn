@@ -1,0 +1,3 @@
+Switches: Connect multiple devices within a local area network (LAN) and facilitate the exchange of data packets between them.
+
+Routers: Connect multiple networks together, such as LANs or wide area networks (WANs), and facilitate communication between devices across different networks.
